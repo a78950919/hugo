@@ -5,12 +5,12 @@
     
     
     
-    <link>/categories/</link>
+    <link>https://a78950919.github.io/hugo/categories/</link>
     <description>Recent content in Categories on Your site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://a78950919.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
