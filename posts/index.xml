@@ -8,26 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a78950919.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>welcome</title>
+      <title>早安，我有冰奇菱</title>
+      <link>https://a78950919.github.io/hugo/posts/hello/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a78950919.github.io/hugo/posts/hello/</guid>
+      <description>早安，我有冰奇菱，好吃的冰淇淋</description>
+      <content>&lt;p&gt;早安，我有冰奇菱，好吃的冰淇淋&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>歡迎光臨</title>
       <link>https://a78950919.github.io/hugo/posts/welcome/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a78950919.github.io/hugo/posts/welcome/</guid>
       <description>歡迎來到Benson的小天地!!</description>
       <content>&lt;p&gt;歡迎來到Benson的小天地!!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Hello Friend</title>
-      <link>https://a78950919.github.io/hugo/posts/hello/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://a78950919.github.io/hugo/posts/hello/</guid>
-      <description> Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.  </description>
-      <content>&lt;ul&gt;
-&lt;li&gt;Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.&lt;/li&gt;
-&lt;/ul&gt;
 </content>
     </item>
     

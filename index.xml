@@ -8,7 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a78950919.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>welcome</title>
+      <title>早安，我有冰奇菱</title>
+      <link>https://a78950919.github.io/hugo/posts/hello/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a78950919.github.io/hugo/posts/hello/</guid>
+      <description>早安，我有冰奇菱，好吃的冰淇淋</description>
+      <content>&lt;p&gt;早安，我有冰奇菱，好吃的冰淇淋&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>歡迎光臨</title>
       <link>https://a78950919.github.io/hugo/posts/welcome/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
       
@@ -19,56 +30,15 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://a78950919.github.io/hugo/about/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://a78950919.github.io/hugo/about/</guid>
-      <description>Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
-      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
-&lt;p&gt;My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.&lt;/p&gt;
-&lt;p&gt;We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.&lt;/p&gt;
-&lt;p&gt;This theme is pretty basic and covers all of the essentials. All you have to do is start typing!&lt;/p&gt;
-&lt;p&gt;The theme includes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;5 duotone themes&lt;/strong&gt;, depending on your preferences (orange, red, blue, green, pink)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tonsky/FiraCode&#34;&gt;&lt;strong&gt;Fira Code&lt;/strong&gt;&lt;/a&gt; as default monospaced font. It&amp;rsquo;s gorgeous!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;really nice, custom duotone&lt;/strong&gt; syntax highlighting based on &lt;a href=&#34;https://prismjs.com&#34;&gt;&lt;strong&gt;PrismJS&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;mobile friendly layout&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;So, there you have it&amp;hellip; enjoy!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Hello Friend</title>
-      <link>https://a78950919.github.io/hugo/posts/hello/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://a78950919.github.io/hugo/posts/hello/</guid>
-      <description> Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.  </description>
-      <content>&lt;ul&gt;
-&lt;li&gt;Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Showcase</title>
+      <title>連絡我</title>
       <link>https://a78950919.github.io/hugo/showcase/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://a78950919.github.io/hugo/showcase/</guid>
-      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+      <description>Header 2 E-mail: a78950919@yahoo.com.tw
+/* PostCSS code */  pre {  background: #1a1a1d;  padding: 20px;  border-radius: 8px;  font-size: 1rem;  overflow: auto;   @media (--phone) {  white-space: pre-wrap;  word-wrap: break-word;  }   code {  background: none !important;  color: #ccc;  padding: 0;  font-size: inherit;  } } // JS code  const menuTrigger = document.querySelector(&amp;#39;.menu-trigger&amp;#39;) const menu = document.</description>
       <content>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;header-3&#34;&gt;Header 3&lt;/h3&gt;
-&lt;p&gt;Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, &lt;code&gt;odio a dignissim pharetra&lt;/code&gt;, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.&lt;/p&gt;
+&lt;p&gt;E-mail: &lt;a href=&#34;mailto:a78950919@yahoo.com.tw&#34;&gt;a78950919@yahoo.com.tw&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* PostCSS code */&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;pre&lt;/span&gt; {
@@ -116,20 +86,20 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{ end }}
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;header-4&#34;&gt;Header 4&lt;/h4&gt;
-&lt;p&gt;Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Maecenas elementum vitae nibh vitae porttitor.&lt;/li&gt;
-&lt;li&gt;Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.&lt;/li&gt;
-&lt;li&gt;Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.&lt;/li&gt;
-&lt;li&gt;Etiam vitae enim quis velit lobortis placerat a ut sem.
-&lt;ul&gt;
-&lt;li&gt;Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.&lt;/li&gt;
-&lt;li&gt;Praesent fermentum orci quis leo facilisis posuere.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
+    <item>
+      <title>關於我</title>
+      <link>https://a78950919.github.io/hugo/about/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://a78950919.github.io/hugo/about/</guid>
+      <description>welcome to my website My name is Benson
+So, there you have it&amp;hellip; enjoy!</description>
+      <content>&lt;h1 id=&#34;welcome-to-my-website&#34;&gt;welcome to my website&lt;/h1&gt;
+&lt;p&gt;My name is Benson&lt;/p&gt;
+&lt;p&gt;So, there you have it&amp;hellip; enjoy!&lt;/p&gt;
 </content>
     </item>
     
