@@ -46,11 +46,10 @@
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>welcome to my website My name is Benson
-So, there you have it&amp;hellip; enjoy!</description>
-      <content>&lt;h1 id=&#34;welcome-to-my-website&#34;&gt;welcome to my website&lt;/h1&gt;
-&lt;p&gt;My name is Benson&lt;/p&gt;
-&lt;p&gt;So, there you have it&amp;hellip; enjoy!&lt;/p&gt;
+      <description>姓名:Benson 現居:台中 興趣:研究電腦</description>
+      <content>&lt;p&gt;姓名:Benson
+現居:台中
+興趣:研究電腦&lt;/p&gt;
 </content>
     </item>
     
