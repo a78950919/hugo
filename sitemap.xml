@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://a78950919.github.io/hugo/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://a78950919.github.io/hugo/</loc>
+    <loc>/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://a78950919.github.io/hugo/posts/hello/</loc>
+    <loc>/posts/hello/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://a78950919.github.io/hugo/posts/welcome/</loc>
+    <loc>/posts/welcome/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://a78950919.github.io/hugo/showcase/</loc>
+    <loc>/showcase/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://a78950919.github.io/hugo/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://a78950919.github.io/hugo/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://a78950919.github.io/hugo/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
