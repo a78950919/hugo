@@ -8,9 +8,6 @@
     <loc>/posts/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/hello/</loc>
-    <lastmod>2022-07-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/welcome/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,6 +16,9 @@
   </url><url>
     <loc>/about/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/hello/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
